@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10%;
+}
+
+
+.Apptitle {
+    font-size: 50px;
+    font-family: Jokerman;
+}
+
+
+.days {
+    display: inline;
+    margin: 5px;
+}
+
+
+.hour {
+    margin: 5px;
+    display: inline;
+}
+
+.minute {
+    margin: 5px;
+    display: inline;
+
+}
+
+
+.second {
+    margin: 5px;
+    display: inline;
+
+}
